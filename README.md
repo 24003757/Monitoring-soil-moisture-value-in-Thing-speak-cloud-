@@ -141,7 +141,6 @@ void loop()
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/cef7cd08-fe92-4185-8ed1-fb293d13566d)
 
 ![image](https://github.com/user-attachments/assets/8221ce33-b179-46a6-b0a5-eda2cc85d5f8)
 
